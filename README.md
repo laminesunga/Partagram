@@ -77,14 +77,12 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/1inYTr5.gif)
+![](https://i.imgur.com/Jz8MYN3.gif)
 
 
 
 
-![](https://i.imgur.com/q6zmhZf.gif)
-
-
+![](https://i.imgur.com/lpnB233.gif)
 
 
 
