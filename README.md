@@ -82,8 +82,9 @@ Here's a walkthrough of implemented user stories:
 
 
 
+![](https://i.imgur.com/q6zmhZf.gif)
 
-![](https://i.imgur.com/wrLTARa.gif)
+
 
 
 
